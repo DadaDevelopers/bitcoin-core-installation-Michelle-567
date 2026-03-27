@@ -4,3 +4,5 @@
 Compile and run the integration tests and share the results
 
 Run Bitcoin core v30 and use at least 5 RPC commands and share the output
+
+I installed Bitcoin Core using the official pre-built Windows installer, which includes both GUI and CLI tools. This approach avoids the need for compiling from source and is recommended for users who want to run and interact with a node efficiently.
